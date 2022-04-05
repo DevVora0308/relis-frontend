@@ -48,6 +48,8 @@ dependencies:
   just_audio_libwinmedia: any
   # pdf: ^3.7.1 # For creating pdf's
   # flutter_svg: ^1.0.2
+  shelf: any
+  shelf_static: any
 
 dev_dependencies:
   flutter_test:
