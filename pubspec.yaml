@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   image_picker: ^0.8.3+3
   carousel_slider: ^4.0.0
-  flutter_rating_bar: ^4.0.0
+  flutter_rating_bar: any # ^4.0.0
   flutter_pdfview: any # ^1.2.1 # For android and ios only
   path: ^1.8.0
   path_provider:
