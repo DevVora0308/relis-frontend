@@ -37,14 +37,14 @@ dependencies:
   http:
   dio: ^4.0.0
   fluttertoast:
-  shared_preferences: ^2.0.12
+  shared_preferences: any #^2.0.12
   fl_chart: ^0.41.0
   intl:
   native_pdf_view: ^5.0.0
   file_picker: ^4.4.0
   # audioplayers: ^0.20.1
   translator: ^0.1.7
-  just_audio: ^0.9.20
+  just_audio: any #^0.9.20
   just_audio_libwinmedia: any
   # pdf: ^3.7.1 # For creating pdf's
   # flutter_svg: ^1.0.2
@@ -52,8 +52,8 @@ dependencies:
   shelf_static: any
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
+  # flutter_test:
+  #   sdk: flutter
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
