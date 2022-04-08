@@ -1,0 +1,13 @@
+{
+  "name": "relis_backend",
+  "version": "1.0.0",
+  "main": "web/index.html",
+  "scripts": {
+      "deploy": "gh-pages -d dist"
+  },
+  "license": "ISC",
+  "homepage": "https://relis:letthebooktalk.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
